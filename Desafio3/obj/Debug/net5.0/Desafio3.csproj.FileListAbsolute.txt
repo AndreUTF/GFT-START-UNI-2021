@@ -14,3 +14,19 @@ C:\Users\Andre\Desktop\GFT_START_UNI\Desafio3\obj\Debug\net5.0\Desafio3.dll
 C:\Users\Andre\Desktop\GFT_START_UNI\Desafio3\obj\Debug\net5.0\ref\Desafio3.dll
 C:\Users\Andre\Desktop\GFT_START_UNI\Desafio3\obj\Debug\net5.0\Desafio3.pdb
 C:\Users\Andre\Desktop\GFT_START_UNI\Desafio3\obj\Debug\net5.0\Desafio3.genruntimeconfig.cache
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfo.cs
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.dll
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\ref\Desafio3.dll
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.pdb
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.exe
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.deps.json
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.json
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.dll
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\ref\Desafio3.dll
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\bin\Debug\net5.0\Desafio3.pdb
+C:\Users\Andre\Desktop\GFT START UNI 2021\Desafio3\obj\Debug\net5.0\Desafio3.genruntimeconfig.cache
