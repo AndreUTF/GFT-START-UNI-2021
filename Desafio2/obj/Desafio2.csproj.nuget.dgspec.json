@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\Desktop\\GFT_START_UNI\\Desafio2\\Desafio2.csproj": {}
+    "C:\\Users\\Andre\\Desktop\\GFT START UNI 2021\\Desafio2\\Desafio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\Desktop\\GFT_START_UNI\\Desafio2\\Desafio2.csproj": {
+    "C:\\Users\\Andre\\Desktop\\GFT START UNI 2021\\Desafio2\\Desafio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\Desktop\\GFT_START_UNI\\Desafio2\\Desafio2.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\Desktop\\GFT START UNI 2021\\Desafio2\\Desafio2.csproj",
         "projectName": "Desafio2",
-        "projectPath": "C:\\Users\\Andre\\Desktop\\GFT_START_UNI\\Desafio2\\Desafio2.csproj",
+        "projectPath": "C:\\Users\\Andre\\Desktop\\GFT START UNI 2021\\Desafio2\\Desafio2.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\Desktop\\GFT_START_UNI\\Desafio2\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\Desktop\\GFT START UNI 2021\\Desafio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
