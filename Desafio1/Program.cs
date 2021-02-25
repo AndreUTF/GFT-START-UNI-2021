@@ -41,7 +41,6 @@ namespace Desafio1
                     Console.WriteLine("{0} x {1} = {2}", multiplicando, i, multiplicando * i);
                 }
             }
-            Console.WriteLine("Hello Word");
         }
     }
 }
